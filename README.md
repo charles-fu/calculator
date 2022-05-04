@@ -4,6 +4,7 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 [![Build Status](https://dev.azure.com/charlesfu4/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/PartsUnlimited?branchName=master)](https://dev.azure.com/charlesfu4/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/charlesfu4/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/PartsUnlimited?branchName=master)](https://dev.azure.com/charlesfu4/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=4&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
